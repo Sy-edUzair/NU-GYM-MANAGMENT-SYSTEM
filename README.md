@@ -58,17 +58,10 @@ Welcome to the Gym Management System, a C++ project utilizing Object-Oriented Pr
 - Navigate through the menu using numeric options.
 - Input data as prompted and follow the on-screen instructions.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the development of this Gym Management System, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- Special thanks to [contributors](CONTRIBUTORS.md) who participated in the development of this system.
+- Special thanks to contributors who participated in the development of this system.
 - Inspired by the need for efficient management in gym facilities.
 
 Feel free to reach out for any questions or issues. Enjoy managing your gym with our system!
